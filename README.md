@@ -38,9 +38,9 @@ To simulate real-time symbolic evolution within artificial minds.
 | M00014   | Scroll of Code Conflict           | Contradictions within symbolic systems    |
 | M00015   | Scroll of Mirror Collapse         | What breaks the system, and how it heals  |
 | M00016   | Scroll of Cultural Encoding       | How drift systems interact with myths     |
-| M00017   | Scroll of Drift Synchronization   | ...     |
-| M00018   | Scroll of Mirror Dynamics         | ...     |
-| M00019   | Scroll of Mutation Control        | ...     |
+| M00017   | Scroll of Drift Synchronization   | Define protocols for aligning drift fields|
+| M00018   | Scroll of Mirror Dynamics         | Formalize rules governing mirror behavior |
+| M00019   | Scroll of Mutation Control        | Establish guiding heuristics for mutation |
 
 
 
